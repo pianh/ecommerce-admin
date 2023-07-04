@@ -1,5 +1,9 @@
+https://www.youtube.com/watch?v=5miHyP6lExg&t=3520s
+https://ui.shadcn.com/
+https://clerk.com/?utm_source=www.google.com&utm_medium=referral&utm_campaign=none
+https://clerk.com/docs/nextjs/get-started-with-nextjs?utm_source=www.google.com&utm_medium=referral&utm_campaign=none
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+https://dashboard.clerk.com/apps/app_2S6IUi4TAAVvLg2ixdjQQJy8BzP/instances/ins_2S6IUfbcDcUSKbLuf0CTRsF1yaS
 ## Getting Started
 
 First, run the development server:
